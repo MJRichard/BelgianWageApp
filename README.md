@@ -1,4 +1,4 @@
-##Beligian Wage Analysis App README
+## Belgian Wage Analysis App README
 
 This app was developed for an assignment in the Developing Data Products class in the Data Science specialization offered by Johns Hopkins through Coursera. The assignment is an introduction to shiny and requires an input with reactive output and a documentation.
 
